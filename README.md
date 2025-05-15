@@ -1,2 +1,2 @@
-I successfully designed and implement this project.
-Using HTML,CSS and JavaScrip Technology.
+I Successfully Designed and Implement This Project.
+Using HTML,CSS and JavaScript Technology.
